@@ -3,7 +3,7 @@ package tictactoe;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class Main {
+public class TicTacToe {
     public static void main(String[] args) {
         //Print out an empty grid
         System.out.println("""
